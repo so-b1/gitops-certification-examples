@@ -16,5 +16,3 @@ spec:
       name: mysql-credentials
       namespace: default
     type: Opaque
-
-
